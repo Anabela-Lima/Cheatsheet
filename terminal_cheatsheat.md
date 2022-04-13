@@ -1,7 +1,6 @@
 # Ana's Cheat Sheet :ledger:
 ## A list of useful commands!
 
-![](https://github.com/mushanshitiancai/vscode-paste-image/raw/master/imagePath) []!
 
 
 _____________
