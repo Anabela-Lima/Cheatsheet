@@ -1,5 +1,8 @@
 # Ana's Cheat Sheet :ledger:
 ## A list of useful commands!
+
+
+! https://thumbs.dreamstime.com/b/cheat-sheet-text-red-grungy-stamp-rectangle-222282750.jpg
 _____________
 > see where you are
 
